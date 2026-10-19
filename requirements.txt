@@ -1,0 +1,5 @@
+# Tested with Python 3.12 (Tkinter is required for diffusion_deformed.py)
+numpy==1.26.4
+scipy==1.17.1
+matplotlib==3.11.2
+pillow==13.0.0
