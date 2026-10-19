@@ -196,7 +196,7 @@ Tkinter is included in the standard Python installers for Windows and macOS (`su
 
 Biomedical Engineering Group 1, EMINES – UM6P: Samy Lakhnati, **Ahmed Lebbar**, Ayman Knadel, Mohamed Mohssine, Ali En Nouali, Sara Gherras, Mohammed Elabridi, Asmae Chabab.
 
-Supervised by **Prof. Marcel Filoche**, whom we thank for his guidance throughout the project. The team's original repository is [RedaMohssine/pulmonary-gas-exchange](https://github.com/RedaMohssine/pulmonary-gas-exchange).
+Supervised by **Prof. Marcel Filoche**, whom we thank for his guidance throughout the project.
 
 ## Contact
 
